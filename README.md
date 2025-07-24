@@ -1,0 +1,2 @@
+# MLPROJECT
+Student Admission Prediction 
